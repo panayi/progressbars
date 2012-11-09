@@ -6,9 +6,6 @@
   "dependencies": {
     "jquery": "~1.7"
   },
-  "optionalDependencies": {
-    "ember": "~0.9"
-  },
   "scripts": {
     "test": "make test"
   },
